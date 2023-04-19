@@ -16,6 +16,10 @@ body {
     width: 50%;
 }
 
+img {
+    max-width: 100%;
+}
+
 form {
     display: flex;
     flex-direction: column;
